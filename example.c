@@ -11,7 +11,7 @@ static uint32_t pixels[HEIGHT*WIDTH];
 
 void olivec_fil_rect(uint32_t *pixels, size_t pixels_width, size_t pixels_height, int x, int y, int w, int h)
 {
-
+// https://www.youtube.com/watch?v=LmQKZmQh1ZQ -- 33:08
 }
 
 
