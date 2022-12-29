@@ -87,6 +87,6 @@ int main(void)
 {
     if (!checker_example()) return -1;
     if (!circle_example()) return -1;
-
+// TIMESTAMP OF VIDEO 1:17:42 
     return 0;
 }
